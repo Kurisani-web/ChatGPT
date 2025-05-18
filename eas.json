@@ -2,7 +2,6 @@
   "build": {
     "production": {
       "android": {
-        "workflow": "managed",
         "buildType": "apk"
       }
     }
