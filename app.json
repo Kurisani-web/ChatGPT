@@ -16,6 +16,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.chefudev.chefuai",  // <-- ADD THIS LINE
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -30,4 +31,4 @@
       }
     }
   }
-}
+  }
