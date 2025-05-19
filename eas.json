@@ -3,7 +3,20 @@
     "production": {
       "distribution": "store",
       "android": {
+        "buildType": "app-bundle"
+      },
+      "cli": {
+        "appVersionSource": "remote"
+      }
+    },
+    "development": {
+      "distribution": "internal",
+      "developmentClient": true,
+      "android": {
         "buildType": "apk"
+      },
+      "cli": {
+        "appVersionSource": "remote"
       }
     }
   }
