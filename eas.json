@@ -14,9 +14,6 @@
       "developmentClient": true,
       "android": {
         "buildType": "apk"
-      },
-      "cli": {
-        "appVersionSource": "remote"
       }
     }
   }
